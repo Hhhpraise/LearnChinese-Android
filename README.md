@@ -14,7 +14,7 @@ Our mobile application is your gateway to mastering Mandarin effectively and eff
 
 4. **Social Interaction Features:** Engage with fellow learners through discussion forums, chat, language exchange, and virtual meetups, enhancing your language skills through peer interaction and feedback.
 
-5. **AI Interaction Features:** Practice conversation skills confidently with our chatbot, receiving instant feedback to improve sentence structures, vocabulary, and pronunciation without fear of judgment.
+5. **AI Interaction Features:** Practice conversation skills confidently with our chatbot, receiving instant feedback to improve sentence structures, vocabulary, and pronunciation without fear of judgment. Brainshop API was used to make this happen , visit their page @ Brainshop.AI
 
 Our system design analysis highlights the robust framework supporting the Chinese Learning App's functionality, scalability, and user experience. Join us on your journey to fluency! 🚀
 Explore the rich tapestry of Mandarin with our LearnChinese-Android  app. Dive into an immersive learning experience crafted with Java on Android Studio. Master essential vocabulary, grammar, and pronunciation with interactive lessons and quizzes. Start your journey to fluency today!
