@@ -50,7 +50,7 @@ To get this application up and running, follow the steps outlined below. Ensure 
 3. **Clone/Download the Project**
    - If the project is hosted on a version control platform like GitHub, use Git to clone the project to your local machine. Alternatively, download the project ZIP and extract it.
    ```bash
-   git clone [https://github.com/praise-arowolo/Course-Management-System.git]
+   git clone [https://github.com/praise-arowolo/LearnChinese-Android.git]
    ```
 
 4. **Open the Project in Android Studio**
