@@ -20,7 +20,7 @@ Our system design analysis highlights the robust framework supporting the Chines
 Explore the rich tapestry of Mandarin with our LearnChinese-Android  app. Dive into an immersive learning experience crafted with Java on Android Studio. Master essential vocabulary, grammar, and pronunciation with interactive lessons and quizzes. Start your journey to fluency today!
 
 ### App Images
-![Example Image](Images/signup.png)
+<img src="Images/signup.png" alt="Example Image" width="400">
 ![Example Image](Images/registration.png)
 ![Example Image](Images/dashboard.png)
 ![Example Image](Images/profile.png)
