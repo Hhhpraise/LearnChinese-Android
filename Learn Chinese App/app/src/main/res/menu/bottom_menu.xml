@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/exercises"
+        android:icon="@drawable/ic_home"
+        android:title="Learn"
+        android:foreground="?android:attr/selectableItemBackground"/>
+    <item
+        android:id="@+id/culture"
+        android:icon="@drawable/traditional_chinese_culture"
+        android:title="Culture"
+        android:foreground="?android:attr/selectableItemBackground"/>
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/baseline_forum_24"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:title="Forum" />
+    <item
+        android:id="@+id/ai"
+        android:icon="@drawable/bot_svg"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:title="AI" />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/avatar"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:title="My info" />
+</menu>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.praise.Haneasy">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- 闪光灯权限 -->
+    <uses-permission android:name="android.permission.FLASHLIGHT" /> <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission
+        android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BCN"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".Screens.Forum.DetailedPost"
+            android:exported="true" />
+        <activity android:name=".Screens.Learning.Gestures.IntroPage" />
+        <activity android:name=".Screens.Learning.Sentences.SentenceGen" />
+        <activity android:name=".Screens.Learning.Sentences.SentencePage" />
+        <activity android:name=".Screens.Learning.Words.WordPage.WordPage" />
+        <activity android:name=".Screens.Learning.Words.WordActivity" />
+        <activity android:name=".Screens.Learning.Pinyin.Tones.ToneDetails" />
+        <activity android:name=".Screens.Learning.Pinyin.Tones.TonePage" />
+        <activity android:name=".Screens.Learning.Pinyin.Finals.FinalsPage" />
+        <activity android:name=".Screens.Learning.Pinyin.Initials.InitialsPage" />
+        <activity android:name=".Screens.Learning.Pinyin.PinyinClass" />
+        <activity android:name=".Screens.Culture.Types.CultureType" />
+        <activity android:name=".Screens.Info.UserInfo" />
+        <activity
+            android:name=".Screens.Learning.LearningPage"
+            android:exported="true" />
+        <activity
+            android:name=".Screens.Forum.ViewPost"
+            android:exported="true" />
+        <activity
+            android:name=".Screens.Forum.MakePost"
+            android:exported="true" />
+        <activity android:name=".Screens.Learning.Videos.Video.VideoPage" />
+        <activity android:name=".Screens.Culture.DetailPage" />
+        <activity android:name=".Screens.Culture.CulturePage" />
+        <activity android:name=".Screens.Learning.Listening.Audio.AudioPage" />
+        <activity android:name=".Screens.Learning.Reading.Question.QuestionPage" />
+        <activity android:name=".Screens.Learning.Reading.ReadingActivity" />
+        <activity android:name=".Screens.Bot.ChatBot" />
+        <activity android:name=".Screens.Learning.Gestures.CameraActivity" />
+        <activity android:name=".Screens.Learning.Gestures.DisplayResult" />
+        <activity android:name=".Screens.Learning.Listening.ListeningActivity" />
+        <activity android:name=".Screens.Learning.Videos.VideoActivity" />
+        <activity android:name=".Screens.Sign_Up" />
+        <activity
+            android:name=".Screens.Login"
+            android:exported="true" />
+        <activity
+            android:name=".Screens.Welcome"
+            android:exported="true" />
+        <activity
+            android:name=".Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

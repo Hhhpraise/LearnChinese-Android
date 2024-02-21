@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">汉易学</string>
+    <string name="splash_intro">Chinese Made Easy...
+    </string>
+    <string name="description">in this section , there are available videos teaching you various conversations in chinese, The subtitles are available you can read along while watching the video...
+        </string>
+    <string name="listening">In this section, your listening skill is being tested... Chinese words would be played and you have to choose the correct answer.
+        The main goal in this section is to practice your listening skill for you to be familiar with chinese word pronunciation...
+
+    </string>
+    <string name="bot">In this section you can practice basic conversations with our bot in chinese , it replies you in chinese  ,
+        A tap on each message would speak out the reply from our bot... Have fun!!! </string>
+    <string name="culture_desc">In this section you are provided with the facts you need to know about the chinese culture</string>
+    <string name="reading_info">This section covers your Chinese reading skill, you will provided with various conversation question , tested for the adequate response.</string>
+    <string name="pinyin_intro">Pinyin is the system of symbols for the phonetic notation of all Chinese characters. Each Chinese character has its own syllable, and each syllable is composed of three parts, i.e initials,
+        finals and tones.
+        This will help you improve your pronunciation of Chinese Mandarin.</string>
+    <string name="initials_info">An initial is a consonant. It is always at the very beginning of a syllable, if there is only one  it cannot exist by itself.In total there are 23 initial consonants</string>
+    <string name="finals_info">Finals are mostly vowels, or start with a vowel, in a Chinese Pinyin Syllable , the final goes at the very end. There are 6 simple finals, 13 compound finals and 16 nasal finals.</string>
+    <string name="simple_final">A simple final is a vowel. The six simple finals are the most fundamental elements in pinyin.</string>
+    <string name="compound_final">By combining the simple finals with each other , we can make 14 compound finals.</string>
+    <string name="nasal_final">By combining the simple finals with "n" or "ng", we can make 16 nasal finals</string>
+    <string name="tones_info">Chinese is a tonal language. In order to differentiate meanings , the same syllable can be pronounced with different tones,
+        which are marked with a little symbol above the vowel, and one neutral tone. Each tone has a distinctive pitch contour which can be graphed using
+        the Chinese five-level system.
+    </string>
+    <string name="first_tone_detail">The first tone is a flat tone. When we pronounce it, we have to keep our voice at a very high pitch and flat
+    throughout the whole syllable. The tone mark to represent the flat tone is a horizontal line.</string>
+    <string name="sec_tone_detail">The second tone is a Rising Tone. when we pronounce it, we start our voice in the middle of the tone
+    and go up. The tone mark is represented by a rising line.</string>
+    <string name="third_tone_detail">The third tone is a Falling-Rising Tone. When we pronounce it, the pitch of our voice goes down first then goes up
+    . It is represented by a curved "dipping" line.</string>
+    <string name="fourth_tone_detail">The Fourth Tone is a Falling Tone. When we pronounce it, starts our voice at a high pitch but sharply
+    drops to the bottom. The fourth tone is represented by a dropping line.</string>
+    <string name="generator">In this section you can listen to recordings, the sentences in this recordings would be divided into parts, in which you should arrange
+    according to what you have heard.</string>
+    <string name="gesture_info">Chinese number gestures are a method to signify the natural numbers one through ten using one hand.
+        These gestures are fully integrated into Chinese Sign Language.</string>
+</resources>
