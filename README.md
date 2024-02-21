@@ -1,6 +1,24 @@
 # LearnChinese-Android
 ## Introduction
+Welcome to the Chinese Learning App repository! 📚🇨🇳
+
+Our mobile application is your gateway to mastering Mandarin effectively and efficiently. Built on a comprehensive system design, it integrates various components to provide a seamless learning experience.
+
+**Key Components:**
+
+1. **User Interface:** Experience an intuitive, visually appealing interface that ensures smooth navigation and engagement with the app's features.
+
+2. **Database:** Our scalable and robust database manages user data, progress tracking, profiles, and learning materials to support a seamless learning journey for multiple users.
+
+3. **Content Management System (CMS):** Easily access and update learning materials, including text, audio, and video content, through a user-friendly CMS designed for administrators.
+
+4. **Social Interaction Features:** Engage with fellow learners through discussion forums, chat, language exchange, and virtual meetups, enhancing your language skills through peer interaction and feedback.
+
+5. **AI Interaction Features:** Practice conversation skills confidently with our chatbot, receiving instant feedback to improve sentence structures, vocabulary, and pronunciation without fear of judgment.
+
+Our system design analysis highlights the robust framework supporting the Chinese Learning App's functionality, scalability, and user experience. Join us on your journey to fluency! 🚀
 Explore the rich tapestry of Mandarin with our LearnChinese-Android  app. Dive into an immersive learning experience crafted with Java on Android Studio. Master essential vocabulary, grammar, and pronunciation with interactive lessons and quizzes. Start your journey to fluency today!
+
 ### App Images
 ![Example Image](Images/signup.png)
 ![Example Image](Images/registration.png)
